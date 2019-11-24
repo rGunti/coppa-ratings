@@ -7,6 +7,10 @@ A suggestion for a video rating system on YouTube.
 ## Purpose
 This repository contains assets for a suggested video rating system that YouTubers and other online content creators may use free of change and without royalties (although sharing is appreciated). The system is inspired by the [Pan European Game Information (PEGI)](https://pegi.info) rating system for video games because besides the age rating it also describes why the age rating has been chosen.
 
+## Assets
+Find the age rating labels under [age-ratings](./age-ratings). The content rating labels are located under [content-ratings](./content-ratings). If need be, you can use the Photoshop files to modify them as you need.
+You will need to download and install the font "[Blue Highway](https://www.dafont.com/de/blue-highway.font)".
+
 ## How to apply
 ### Age Rating
 The age rating can be chosen pretty freely. However depending on the content, a minimum age rating may be required. The age rating is split between the following ratings:

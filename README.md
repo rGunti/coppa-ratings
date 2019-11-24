@@ -2,7 +2,7 @@
 A suggestion for a video rating system on YouTube.
 
 ## Summary
-![COPPA Summary](./COPPA_Summary.png)
+![COPPA Summary](./COPPA-Summary.png)
 
 ## Purpose
 This repository contains assets for a suggested video rating system that YouTubers and other online content creators may use free of change and without royalties (although sharing is appreciated). The system is inspired by the [Pan European Game Information (PEGI)](https://pegi.info) rating system for video games because besides the age rating it also describes why the age rating has been chosen.
